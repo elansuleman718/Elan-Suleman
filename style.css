@@ -47,6 +47,7 @@
 #slider
 {
     width: 100%;
+    padding-bottom:50px;
 }
 .carousel-caption
 {
@@ -63,7 +64,7 @@
 /*---------About-----*/
 #about
 {
-    padding-top; 50px;
+    padding-top; 100px;
     padding-bottom:50px;
     color: #555;
     
